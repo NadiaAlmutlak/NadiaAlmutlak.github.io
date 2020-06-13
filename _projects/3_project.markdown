@@ -2,7 +2,7 @@
 layout: page
 title: SEN'A 
 description: Reducing electricity usage through user awareness 
-img: /assets/img/sena.gif
+img: /assets/img/SENA.gif
 ---
 
 <div>
@@ -24,7 +24,7 @@ As part of Human Centered Design & Innovation (MEIE ), we were tasked with devel
 </div>
 
 <div>
-    <img class="col three left" src="{{ site.baseurl }}/assets/img/sena.gif" alt="" title="example image"/>
+    <img class="col three left" src="{{ site.baseurl }}/assets/img/SENA.gif" alt="" title="example image"/>
 </div>
 <div class="col three caption">
    Concept idea for project user data on lamp base

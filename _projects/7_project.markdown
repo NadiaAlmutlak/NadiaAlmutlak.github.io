@@ -2,11 +2,11 @@
 layout: page
 title: Blind Arduino Maze
 description: Final Art of Engineering Project
-img: /assets/img/aoe.gif
+img: /assets/img/AOE.gif
 ---
 
 <div>
-    <img class="col three left" src="{{ site.baseurl }}/assets/img/aoe.gif" alt="" title="example image"/>
+    <img class="col three left" src="{{ site.baseurl }}/assets/img/AOE.gif" alt="" title="example image"/>
 </div>
 <div class="col three caption">
 Illustrating a bit of the game play </div>
