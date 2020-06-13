@@ -5,10 +5,4 @@ description: 3rd Place in Material Science
 img: /assets/img/glow.jpg
 ---
 
-
-<div>
-    <img class="col three left" src="{{ site.baseurl }}/assets/img/poster.jpg" alt="" title="example image"/>
-</div>
-<div class="col three caption">
-    The poster I presentedat ISEF
-</div>
+<iframe src="https://drive.google.com/file/d/1uqbOA_-PNwbEz-JKPmrbjteb1bBI2sY5/preview" width="700" height="900"></iframe>

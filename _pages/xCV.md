@@ -4,9 +4,5 @@ permalink: /CV/
 title: CV
 description:
 ---
-<div>
-    <img class="col three left" src="{{ site.baseurl }}/assets/img/cv.jpg" alt="" title="example image"/>
-</div>
-<div class="col three caption">
 
-</div>
+<iframe src="https://drive.google.com/file/d/1PiBDkiBPpUIqY-NLXylr9pUOCfKl1s3m/preview" width="700" height="900"></iframe>

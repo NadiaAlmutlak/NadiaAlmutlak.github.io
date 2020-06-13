@@ -3,7 +3,7 @@ layout: page
 permalink: /publications/
 title: Research & Presentations
 description: 
-years: [2020, 2019, 2016]
+years: [2019, 2016]
 year: [2020, 2019, 2017, 2016]
 ---
 
