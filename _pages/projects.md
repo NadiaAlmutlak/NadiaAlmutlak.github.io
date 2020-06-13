@@ -1,8 +1,8 @@
 ---
 layout: page
-title: projects
+title: Projects
 permalink: /projects/
-description: A growing collection of your cool projects.
+description: Here's a collection of some of the projects I'm working on or I've worked on. Hover over each image for some details and click to learn more!
 ---
 
 {% for project in site.projects %}

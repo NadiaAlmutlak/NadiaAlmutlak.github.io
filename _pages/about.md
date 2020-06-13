@@ -1,23 +1,19 @@
 ---
 layout: about
 permalink: /
-title: <strong>Your</strong> Name
-description: <a href="">Affiliations</a>. Address. Contacts. Moto. Etc.
+title: <strong>Nadia</strong> Almutlak
+description: <a href="">Mechanical Engineering</a>. Columbia University
 
 profile:
   align: right
-  image: prof_pic.jpg
+  image: 2.jpg
   address: >
-    <p>555 your office number</p>
-    <p>123 your address street</p>
-    <p>Your City, State 12345</p>
+    <p> 500 W. 120th Steet #254</p>
+    <p>New York, NY, 10027</p>
 
-news: true
+
+news: false
 social: true
 ---
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com){:target="\_blank"}. You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
-
-Put your address / P.O. box / other info right below your picture. You can also disable any these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
-
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](http://fortawesome.github.io/Font-Awesome/){:target="\_blank"} and [Academicons](https://jpswalsh.github.io/academicons/){:target="\_blank"}, like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+Hello! I'm Nadia. I am a Mechanical Engineering student at Columbia University. I'm a [KGSP](https://kgsp.kaust.edu.sa/) scholarship recepient. I'm currently interning as a part of [RISS](https://riss.ri.cmu.edu/) in the [HARP Lab](http://harp.ri.cmu.edu/). I'm very passionate about designing tools to advance rehabilitation and help people relearn, restore, or improve functional movements to allow them to return to activities of daily living.

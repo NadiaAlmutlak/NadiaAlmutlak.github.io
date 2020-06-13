@@ -1,55 +1,34 @@
 ---
 layout: page
-title: Project 6
-description: a project with no image
-img:
+title: Toy Truck
+description: a reverse-engineered CAD project
+img: /assets/img/assemblygif.gif
 ---
 
-Every project has a beautiful feature shocase page. It's easy to include images, in a flexible 3-column grid format. Make your photos 1/3, 2/3, or full width.
-
-To give your project a background in the portfolio page, just add the img tag to the front matter like so:
-
-    ---
-    layout: page
-    title: Project
-    description: a project with a background image
-    img: /assets/img/12.jpg
-    ---
-
-
-<div class="img_row">
-    <img class="col one left" src="{{ site.baseurl }}/assets/img/1.jpg" alt="" title="example image"/>
-    <img class="col one left" src="{{ site.baseurl }}/assets/img/2.jpg" alt="" title="example image"/>
-    <img class="col one left" src="{{ site.baseurl }}/assets/img/3.jpg" alt="" title="example image"/>
+<div>
+    <img class="col three left" src="{{ site.baseurl }}/assets/img/truck.png" alt="" title="example image"/>
 </div>
 <div class="col three caption">
-    Caption photos easily. On the left, a road goes through a tunnel. Middle, leaves artistically fall in a hipster photoshoot. Right, in another hipster photoshoot, a lumberjack grasps a handful of pine needles.
+    I wonder how our advertisement would look like?
 </div>
+
+For my Computer & Graphics Design (MECE3408) midterm, we were asked to reverse engineer the toy truck seen below. This toy, along with many others from the same line, are very popular with children and parents alike for their interactivity and safety. 
+
+For this project, we were required design the truck, including all of it's components, as accurately as possible. We were allowed a number of simplifications which were limited to non-functional features. This meant that the number of parts could not be reduced, however, their decals and features could be.
+
+ 
+
+
+
 <div class="img_row">
-    <img class="col three left" src="{{ site.baseurl }}/assets/img/5.jpg" alt="" title="example image"/>
-</div>
-<div class="col three caption">
-    This image can also have a caption. It's like magic.
-</div>
-
-You can also put regular text between your rows of images. Say you wanted to write a little bit about your project before you posted the rest of the images. You describe how you toiled, sweated, *bled* for your project, and then.... you reveal it's glory in the next row of images.
-
-
-<div class="img_row">
-    <img class="col two left" src="{{ site.baseurl }}/assets/img/6.jpg" alt="" title="example image"/>
-    <img class="col one left" src="{{ site.baseurl }}/assets/img/11.jpg" alt="" title="example image"/>
+    <img class="col two left" src="{{ site.baseurl }}/assets/img/truckpic.jpg" alt="" title="example image"/>
+    <img class="col one left" src="{{ site.baseurl }}/assets/img/assemblygif.gif" alt="" title="example image"/>
 </div>
 <div class="col three caption">
     You can also have artistically styled 2/3 + 1/3 images, like these.
 </div>
 
 
-<br/><br/>
 
+This reverse-engineering process began with taking categorizing the parts, taking their measurements, and producing sketches which could be used for the CAD process. 
 
-The code is simple. Just add a col class to your image, and another class specifying the width: one, two, or three columns wide. Here's the code for the last row of images above:
-
-<div class="img_row">
-    <img class="col two left" src="/img/6.jpg"/>
-    <img class="col one left" src="/img/11.jpg"/>
-</div>
