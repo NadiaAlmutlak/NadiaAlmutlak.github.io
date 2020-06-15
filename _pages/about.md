@@ -8,7 +8,7 @@ profile:
   align: right
   image: 2.jpg
   address: >
-    <p> 500 W. 120th Steet #254</p>
+    <p> 500 W. 120th Street #254</p>
     <p>New York, NY, 10027</p>
 
 
